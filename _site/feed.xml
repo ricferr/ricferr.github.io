@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SYS49152</title>
+    <description>Just a space to put whatever i feel like :)</description>
+    <link>http://sys49152.net/</link>
+    <atom:link href="http://sys49152.net/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 04 Nov 2015 23:58:26 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2015 23:58:26 +0000</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Android headunits</title>
+        <description>&lt;p&gt;I’ve been contemplating putting an Android headunit in my car lately.
+It would solve the constant problem of GPS Navigation and have a decent music player.&lt;/p&gt;
+
+&lt;p&gt;This is a video about the Pumpkin C-0250, that is probably what i’m going to get:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https:///www.youtube.com/embed/3pO9Xlwi7Ck&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;As you can see, it can be updated with a custom ROM available at &lt;a href=&quot;http://xda-developers.com/&quot;&gt;xda-developers&lt;/a&gt;, so it can be rooted quite easily.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Nov 2015 22:53:59 +0000</pubDate>
+        <link>http://sys49152.net/posts/2015/11/04/android-headunits/</link>
+        <guid isPermaLink="true">http://sys49152.net/posts/2015/11/04/android-headunits/</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
