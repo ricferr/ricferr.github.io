@@ -3,6 +3,7 @@ layout: post
 title:  "Android headunits"
 date:   2015-11-04 22:53:59
 categories: posts
+comments: true
 ---
 I've been contemplating putting an Android headunit in my car lately.
 It would solve the constant problem of GPS Navigation and have a decent music player.
