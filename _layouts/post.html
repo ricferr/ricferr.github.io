@@ -12,10 +12,11 @@ layout: default
   {{ content }}
   </article>
   {% include twitter_button.html %}
+    {% include facebook_button.html %}
   {% include googleplus_button.html %}
   
   {% if page.comments %}
-    {% include discus_comments.html %}
+    {% include disqus_comments.html %}
   {% endif %}
 
 </div>
